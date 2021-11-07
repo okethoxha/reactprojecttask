@@ -14,9 +14,7 @@ const About = () => {
                     <span className="d-block">
                         Developed by:
                     </span>
-                    <h3>Vikas Garg</h3>
-                    <p className="mb-1">@vikasgarg</p>
-                    <Link to="/">www.bit.ly/vikasgarg</Link>
+                    <h3>Sidrit</h3>
                 </div>
             </div>
             <div class="card-footer">
